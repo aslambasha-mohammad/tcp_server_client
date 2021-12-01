@@ -2,6 +2,7 @@ CFLAGS = -Wall -g
 
 CC = gcc
 RM = rm -rf
+MAKE = make
 
 SERVER_BIN = tcp_server
 CLIENT_BIN = tcp_client
